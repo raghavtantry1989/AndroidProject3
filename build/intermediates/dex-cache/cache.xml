@@ -3,12 +3,12 @@
 
     <item
         is-multidex="true"
-        jar="/Users/tantryr/Downloads/PuneGuide/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jar="/Users/tantryr/Documents/GitHub/AndroidProject3/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
-        sha1="5d90a8ba104e21f115a10438a66d5617b8a033e8">
-        <dex dex="/Users/tantryr/Downloads/PuneGuide/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_aa9ff7654c89a9dd127dda81e4aa2978385259d1/classes.dex" />
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/tantryr/Documents/GitHub/AndroidProject3/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8aa7a2f3a873e52e72908eaaf2a682a47f3d9069/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -18,6 +18,24 @@
         revision="26.0.1"
         sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
         <dex dex="/Users/tantryr/Downloads/PuneGuide/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_7245b3293956defbb33f6b0cb1e0d802c84e1eb8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tantryr/Downloads/PuneGuide/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5d90a8ba104e21f115a10438a66d5617b8a033e8">
+        <dex dex="/Users/tantryr/Downloads/PuneGuide/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_aa9ff7654c89a9dd127dda81e4aa2978385259d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tantryr/Documents/GitHub/AndroidProject3/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b095be796bf3e389b4721200d38235c4caa161af">
+        <dex dex="/Users/tantryr/Documents/GitHub/AndroidProject3/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_186a65e883a1fea634363ce556860d88dc605456/classes.dex" />
     </item>
 
 </items>

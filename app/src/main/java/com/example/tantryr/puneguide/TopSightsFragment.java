@@ -52,7 +52,7 @@ public class TopSightsFragment extends Fragment {
                 "This large zoo with a lake & greenery has a snake park with many reptiles & an animal rescue center.",
                 R.drawable.rajiv_gandhi_zoo));
 
-        sights.add(new Sight("Dagadusheth Halwai Ganapati Temple",
+        sights.add(new Sight("Dagadusheth Ganapati Temple",
                 "Hindu temple with large gold Ganesh idol",
                 "Hindu temple popular with pilgrims, with marble interiors & 7.5-ft Ganesh idol in gold.",
                 R.drawable.dagdushet));
