@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Pune Guide</string>
+
+    <!-- Navigation -->
+    <string name="top_sights">Top Sights</string>
+    <string name="popular_hotels">Popular Hotels</string>
+    <string name="food_abd_drink">Food and Drinks</string>
+    <string name="events_and_activities">Events / Activities</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
+

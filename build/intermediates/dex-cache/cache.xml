@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/tantryr/Downloads/PuneGuide/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5d90a8ba104e21f115a10438a66d5617b8a033e8">
+        <dex dex="/Users/tantryr/Downloads/PuneGuide/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_aa9ff7654c89a9dd127dda81e4aa2978385259d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tantryr/Downloads/PuneGuide/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/tantryr/Downloads/PuneGuide/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_7245b3293956defbb33f6b0cb1e0d802c84e1eb8/classes.dex" />
+    </item>
+
+</items>
